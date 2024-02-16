@@ -1,11 +1,12 @@
 html {
     background-image: url('/images/cloudbackground.png');
 }
+body{
+    background-color: transparent;
+}
 
 #NumGenForm {
-    /* background-color: transparent; */
-    background-image: none;
-    /* background-color: rgba(255, 0, 0, 0.4); */
+    background-color: transparent;
     display: flex;
     flex-direction: column;
     justify-content: center;
